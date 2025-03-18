@@ -1,5 +1,9 @@
 ## 재현의 깃허브
 
+[![kimjaehyeonn's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjaehyeonn)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac
+kimjaehyeonn](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+
 <!--
 **kimjaehyeonn/kimjaehyeonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
